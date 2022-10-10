@@ -7,13 +7,6 @@
       padding-top: 5rem;
     }
   }
-  #about {
-    &-b {
-      .about-b-grid {
-        grid-template-columns: 1fr 5fr;
-      }
-    }
-  }
 }
 
 // Smartphones
@@ -80,11 +73,6 @@
           "award-1"
           "award-2"
           "award-3";
-      }
-    }
-    &-b {
-      .about-b-grid {
-        grid-template-columns: 1fr 3fr;
       }
     }
     &-c {
